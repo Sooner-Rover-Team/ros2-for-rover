@@ -13,3 +13,4 @@ Here's the table of contents:
 - Node
 - Interfaces
 - TODO
+<!-- TODO: Add a integration for the Messages description, perhaps as part of introduction (here) or as another "building block" the way we did with Nodes. Bottom line is that we want to define Messages as a data structure used by Interfaces for communication -->
